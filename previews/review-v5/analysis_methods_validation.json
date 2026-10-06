@@ -1,0 +1,146 @@
+[
+  {
+    "scene": "LibraryPreparation",
+    "duration_seconds": 36.795,
+    "video_size": [
+      1280,
+      720
+    ],
+    "fps": 30,
+    "audit_intersections": 0,
+    "gif_frames": 442,
+    "gif_size": [
+      768,
+      432
+    ],
+    "gif_duration_seconds": 36.83,
+    "loop": 0,
+    "gif_bytes": 1487602
+  },
+  {
+    "scene": "Tagmentation",
+    "duration_seconds": 40.596,
+    "video_size": [
+      1280,
+      720
+    ],
+    "fps": 30,
+    "audit_intersections": 0,
+    "gif_frames": 487,
+    "gif_size": [
+      768,
+      432
+    ],
+    "gif_duration_seconds": 40.58,
+    "loop": 0,
+    "gif_bytes": 1438681
+  },
+  {
+    "scene": "PacBioHiFi",
+    "duration_seconds": 41.713,
+    "video_size": [
+      1280,
+      720
+    ],
+    "fps": 30,
+    "audit_intersections": 0,
+    "gif_frames": 501,
+    "gif_size": [
+      768,
+      432
+    ],
+    "gif_duration_seconds": 41.75,
+    "loop": 0,
+    "gif_bytes": 2371987
+  },
+  {
+    "scene": "SouthernBlot",
+    "duration_seconds": 35.396,
+    "video_size": [
+      1280,
+      720
+    ],
+    "fps": 30,
+    "audit_intersections": 0,
+    "gif_frames": 425,
+    "gif_size": [
+      768,
+      432
+    ],
+    "gif_duration_seconds": 35.41,
+    "loop": 0,
+    "gif_bytes": 1162476
+  },
+  {
+    "scene": "FISH",
+    "duration_seconds": 35.496,
+    "video_size": [
+      1280,
+      720
+    ],
+    "fps": 30,
+    "audit_intersections": 0,
+    "gif_frames": 426,
+    "gif_size": [
+      768,
+      432
+    ],
+    "gif_duration_seconds": 35.5,
+    "loop": 0,
+    "gif_bytes": 1235765
+  },
+  {
+    "scene": "HybridizationCapture",
+    "duration_seconds": 35.696,
+    "video_size": [
+      1280,
+      720
+    ],
+    "fps": 30,
+    "audit_intersections": 0,
+    "gif_frames": 428,
+    "gif_size": [
+      768,
+      432
+    ],
+    "gif_duration_seconds": 35.66,
+    "loop": 0,
+    "gif_bytes": 1497655
+  },
+  {
+    "scene": "BisulfiteSequencing",
+    "duration_seconds": 35.797,
+    "video_size": [
+      1280,
+      720
+    ],
+    "fps": 30,
+    "audit_intersections": 0,
+    "gif_frames": 430,
+    "gif_size": [
+      768,
+      432
+    ],
+    "gif_duration_seconds": 35.83,
+    "loop": 0,
+    "gif_bytes": 1151446
+  },
+  {
+    "scene": "EnzymaticMethylSequencing",
+    "duration_seconds": 42.263,
+    "video_size": [
+      1280,
+      720
+    ],
+    "fps": 30,
+    "audit_intersections": 0,
+    "gif_frames": 507,
+    "gif_size": [
+      768,
+      432
+    ],
+    "gif_duration_seconds": 42.25,
+    "loop": 0,
+    "gif_bytes": 1442514
+  }
+]

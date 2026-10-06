@@ -1,0 +1,8 @@
+# Normalize source and documentation while preserving exported media bytes.
+* text=auto eol=lf
+
+*.gif binary
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.mp4 binary

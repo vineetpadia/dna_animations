@@ -1,0 +1,62 @@
+# Local environments, caches, logs and editor state.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.preview/
+.codex/
+.agents/
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
+
+# Local secrets and deployment/build output.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+node_modules/
+/build/
+/dist/
+/_site/
+.jekyll-cache/
+.sass-cache/
+
+# Keep the current gallery exports; omit every previous preview version.
+/previews/*
+!/previews/index.html
+!/previews/v5/
+/previews/v5/*
+!/previews/v5/*.gif
+!/previews/v5/manifest.json
+!/previews/posters/
+/previews/posters/*
+!/previews/posters/*.jpg
+!/previews/review-v5/
+/previews/review-v5/*
+!/previews/review-v5/*.jpg
+!/previews/review-v5/*.png
+!/previews/review-v5/*.json
+
+# Keep canonical movies and the exact review families used by the manifest.
+# Traversable directories do not include their files unless allowed below.
+/media/**
+!/media/**/
+!/media/videos/scenes/720p30/*.mp4
+!/media/v4/library/layout_audit/*.json
+!/media/v4/replication/layout_audit/*.json
+!/media/v4/sequencing/layout_audit/*.json
+!/media/v4/synthesis/layout_audit/*.json
+!/media/expansion/advanced_amplification/layout_audit/*.json
+!/media/expansion/analysis_methods/layout_audit/*.json
+!/media/expansion/assembly/layout_audit/*.json
+!/media/expansion/consensus/layout_audit/*.json
+!/media/expansion/editing/layout_audit/*.json
+!/media/expansion/foundations/layout_audit/*.json
